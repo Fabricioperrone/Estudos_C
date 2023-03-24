@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1556248290 source:d:\dowhile2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1556247654 source:d:\dowhile2\menu.c
+	<stdio.h>
+	<stdlib.h>
+
+1556248437 source:d:\dowhile2\bons_estudos.c
+	<stdio.h>
+	<stdlib.h>
+
+1556247790 source:d:\dowhile2\cliente.c
+	<stdio.h>
+	<stdlib.h>
+
+1556248437 source:d:\dowhile2\erro_msg.c
+	<stdio.h>
+	<stdlib.h>
+
+1556247894 source:d:\dowhile2\atendente.c
+	<stdio.h>
+	<stdlib.h>
+

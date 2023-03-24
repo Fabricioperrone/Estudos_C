@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1559827186 source:d:\ recebe 3 valores float e retorna o quadrado do 1º mais a soma dos outros dois\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+

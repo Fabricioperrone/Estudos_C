@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1559827391 source:d:\recebeemostranatela\main.c
+	<stdio.h>
+	<stdlib.h>
+
